@@ -1,4 +1,4 @@
-FROM php:7.0-apache
+FROM php:latest
 COPY webinterface /var/www/html
 COPY config.php /var/www/html/config.php
 RUN chown -R www-data:www-data /var/www/html
