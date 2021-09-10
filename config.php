@@ -38,6 +38,6 @@ $duration = "100";				//Set the Limit for Clients show per Page on Client List
 $fastswitch=true;				//If true you can switch the Server on the header
 $showicons="left";				//Define the position where the icons on the Viewer will show left or right
 $style="new";					//Chose your design  set 'new' for the default design or the name of your own create design
-$msgsend_name="Webinterface";	//This Name will be show if you send a message to a Server
-$show_motd=true;				// Set it to false to not show the message of the day window
+$msgsend_name="Nibian";	//This Name will be show if you send a message to a Server
+$show_motd=false;				// Set it to false to not show the message of the day window
 ?>
